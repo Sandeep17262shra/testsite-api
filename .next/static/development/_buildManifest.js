@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = (function(a){return {__rewrites:{afterFiles:[{has:[{type:"query",key:"flow",value:"3C|bracelet|bracelet-configurator"}],source:a,destination:"\u002Fbracelet-configurator"},{has:void 0,source:"\u002Fring-customizer",destination:a}],beforeFiles:[],fallback:[]},sortedPages:["\u002F_app"]}}("\u002F"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()

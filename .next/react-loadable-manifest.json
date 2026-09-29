@@ -1,0 +1,43 @@
+{
+  "../node_modules/@react-three/drei/core/VideoTexture.js -> hls.js": {
+    "id": "../node_modules/@react-three/drei/core/VideoTexture.js -> hls.js",
+    "files": []
+  },
+  "../node_modules/@react-three/drei/web/FaceLandmarker.js -> @mediapipe/tasks-vision": {
+    "id": "../node_modules/@react-three/drei/web/FaceLandmarker.js -> @mediapipe/tasks-vision",
+    "files": []
+  },
+  "app/[store]/page.js -> @/components/BeedsConfiguratorClient": {
+    "id": "app/[store]/page.js -> @/components/BeedsConfiguratorClient",
+    "files": [
+      "static/css/_app-pages-browser_src_components_BeedsConfiguratorClient_jsx.css",
+      "static/chunks/_app-pages-browser_src_components_BeedsConfiguratorClient_jsx.js"
+    ]
+  },
+  "app/[store]/page.js -> @/components/BraceletConfiguratorClient": {
+    "id": "app/[store]/page.js -> @/components/BraceletConfiguratorClient",
+    "files": [
+      "static/css/_app-pages-browser_src_components_BraceletConfiguratorClient_jsx.css",
+      "static/chunks/_app-pages-browser_src_components_BraceletConfiguratorClient_jsx.js"
+    ]
+  },
+  "app/[store]/page.js -> @/components/NecklaceConfiguratorClient": {
+    "id": "app/[store]/page.js -> @/components/NecklaceConfiguratorClient",
+    "files": [
+      "static/css/_app-pages-browser_src_components_NecklaceConfiguratorClient_jsx.css",
+      "static/chunks/_app-pages-browser_src_components_NecklaceConfiguratorClient_jsx.js"
+    ]
+  },
+  "app/[store]/page.js -> @/components/RingConfiguratorClient": {
+    "id": "app/[store]/page.js -> @/components/RingConfiguratorClient",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_RingConfiguratorClient_jsx.js"
+    ]
+  },
+  "lib/beeds-configurator/components/BeadsPreviewMorph.jsx -> ./BeadsPreview3D": {
+    "id": "lib/beeds-configurator/components/BeadsPreviewMorph.jsx -> ./BeadsPreview3D",
+    "files": [
+      "static/chunks/_app-pages-browser_src_lib_beeds-configurator_components_BeadsPreview3D_jsx.js"
+    ]
+  }
+}
