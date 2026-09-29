@@ -16,7 +16,10 @@ const RULES_BY_STORE = {
   elitejewelers: elitejewelersRules,
   labgrownlove: labgrownloveRules,
   diamondwise: diamondwiseRules,
-  "jewelith-pricing-test": jewelithRules,
+  // The pricing-test store does not have its own compatibility catalogue.
+  // Use the default model rules (which include Moval / SH11) rather than the
+  // more restrictive Jewelith rules.
+  "jewelith-pricing-test": defaultRules,
   jewelith: jewelithRules,
 };
 

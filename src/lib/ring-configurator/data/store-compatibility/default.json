@@ -35,7 +35,9 @@
       "SH07",
       "SH08",
       "SH09",
-      "SH10"
+      "SH10",
+      "SH11",
+      "SH12"
     ],
     "compatible_bands": [
       "B001",
